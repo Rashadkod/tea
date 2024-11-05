@@ -1,0 +1,203 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 31px;
+  background-repeat: no-repeat;
+}
+.logo {
+  background-repeat: no-repeat;
+}
+.main-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 150px;
+}
+.hero-section {
+  color:white;
+  background-image: url(images/Group\ 91.jpg);
+  width: 100%;
+  width: 1599px;
+  height: 500px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  gap: 20px;
+  padding-left: 50px;
+}
+h1 {
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+.quote {
+  display: flex;
+  justify-content: center;
+  margin-top: 193px;
+  font-size: 40px;
+}
+.collection {
+  margin-top: 120px;
+}
+.collection p {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+.tea-types {
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.saying {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.comments {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  padding-left: 20px;
+  
+}
+.comment-section {
+  background-color: #f7f2ea
+}
+.blog h2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+.blog-posts {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+  gap: 20px;
+}
+.want {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+.join {
+  font-size: 20px;
+}
+.buton {
+  background-color: white;
+  color: black;
+  height: 30px;
+  width: 100px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.want {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 200px;
+}
+.join{
+  padding-left: 200px;
+  display: flex;
+  justify-content: flex-start;
+}
+.more {
+  background-color: #f7f2ea;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.right {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  padding-right: 200px;
+  margin-top: 100px;
+  gap: 10px;
+}
+.joinbtn {
+  color: black;
+  height: 20px;
+  width: 70px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.section-head {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 50px;
+}
+.transparency {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+.experience {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+.replies {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+.reliable {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+.priorites {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-between;
+  padding: 60px;
+}
+.products {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.company {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.owner-quote {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.footer {
+  background-color: #f7f2ea;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-between;
+  padding: 50px;
+}
